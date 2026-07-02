@@ -13,3 +13,4 @@
 "Rewrite that one function you've been thinking of redoing for a while now" 
 "Add a new type of thing in your game; this could be a new enemy, weapon, collectible, or a new section in an existing level" 
 "Make one interaction in your game juicier; this could mean adding squishing, flashing, shaking etc. to an object, camera shake or some form of satisfying player feedback" 
+"Take a chill day and continue working on something you had started previously." 
