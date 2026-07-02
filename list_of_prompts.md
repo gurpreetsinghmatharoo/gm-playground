@@ -1,3 +1,11 @@
+⚠️ IMPORTANT: Please keep in mind:
+
+- Fork the repo for editing and create a pull request
+- **Only one line break between each line**
+- **Must have one space at the end of the line**
+
+## Edit Below
+
 "Fix one bug that has shown up in playtests repeatedly" 
 "What's the one thing you can add to make player movement feel more responsive and smoother?" 
 "Program a new particle effect, maybe there's an interaction in your game that does not display any particles?" 
